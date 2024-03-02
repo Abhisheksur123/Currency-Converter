@@ -18,7 +18,9 @@ Features
 Support for various currencies.
 Real-time exchange rates fetched from a reliable API.
 Simple and intuitive user interface.
+
 Preview
+
 <img width="646" alt="image" src="https://github.com/Abhisheksur123/Currency-Converter/assets/107261617/1f0f1f68-d791-4d44-8be1-8283109ad528">
 
 Technologies Used
@@ -27,3 +29,4 @@ CSS
 JavaScript
 API Integration
 The application uses a third-party API to fetch real-time exchange rates.
+Feel free to contribute, report issues, or suggest improvements!
